@@ -4,8 +4,8 @@ export const IMAGE_SRC = "/images/002-1.jpg";
 // ===== 오버레이 설정 =====
 // show 는 스크롤 px 기준 로직이므로 그대로 숫자(px) 유지
 export const OVERLAYS = [
-  { src: "/images/say1.png", show: "1.0%",  left: "2.25vw",   top: "14vh", bottom: "46.3vh" },
-  { src: "/images/say2.png", show: "2.4%",  left: "40vw", top: "34vh", bottom: "25vh" },
+  { src: "/say1.png", show: "1.0%",  left: "2.25vw",   top: "14vh", bottom: "46.3vh" },
+  { src: "say2.png", show: "2.4%",  left: "40vw", top: "34vh", bottom: "25vh" },
   { src: "/images/say3.png", show: "4.0%",  left: "50vw",    top: "9.2vh",  bottom: "56.8vh" },
   { src: "/images/say4.png", show: "7.5%",  left: "70vw",   top: "20.4vh", bottom: "26vh" },
   { src: "/images/say5.png", show: "18%",   left: "36vw", top: "7.4vh",  bottom: "63vh" },
