@@ -64,7 +64,7 @@ export const EXTERNAL_URL = "https://smore.im/quiz/aFbN246J8S";
 
 // ===== 커스텀 커서 =====
 export const CURSOR_PNG_CANDIDATES = [
-  "images/cursor.png",
+  "cursor.png",
   "images/cursor.png"
 ];
 export const CURSOR_HOTSPOT_X = 8;
