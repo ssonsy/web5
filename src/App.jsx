@@ -24,7 +24,7 @@ import { clamp, easeOutCubic, easeInOutCubic } from "./utils/math.js";
 
 // ✅ About 이미지 (src/assets에 둘 때 권장)
 //    파일명이 소문자라면 반드시 경로도 소문자로!
-import aboutImg from "./assets/images/about.png";
+const aboutImg = "/web5/images/about.png";
 // 만약 public/assets에 두었다면 위 import 대신 아래 한 줄을 쓰세요:
 // const aboutImg = "/assets/about.png";
 
