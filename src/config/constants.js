@@ -4,12 +4,12 @@ export const IMAGE_SRC = "/images/002-1.jpg";
 // ===== 오버레이 설정 =====
 // show 는 스크롤 px 기준 로직이므로 그대로 숫자(px) 유지
 export const OVERLAYS = [
-  { src: "images/대사1.png", show: "1.0%",  left: "2.25vw",   top: "14vh", bottom: "46.3vh" },
-  { src: "images/대사2.png", show: "2.4%",  left: "40vw", top: "34vh", bottom: "25vh" },
-  { src: "images/대사3.png", show: "4.0%",  left: "50vw",    top: "9.2vh",  bottom: "56.8vh" },
-  { src: "images/대사4.png", show: "7.5%",  left: "70vw",   top: "20.4vh", bottom: "26vh" },
-  { src: "images/대사5.png", show: "18%",   left: "36vw", top: "7.4vh",  bottom: "63vh" },
-  { src: "images/대사6.png", show: "32%",   left: "60vw",  top: "0vh",       bottom: "51vh" },
+  { src: "/images/대사1.png", show: "1.0%",  left: "2.25vw",   top: "14vh", bottom: "46.3vh" },
+  { src: "/images/대사2.png", show: "2.4%",  left: "40vw", top: "34vh", bottom: "25vh" },
+  { src: "/images/대사3.png", show: "4.0%",  left: "50vw",    top: "9.2vh",  bottom: "56.8vh" },
+  { src: "/images/대사4.png", show: "7.5%",  left: "70vw",   top: "20.4vh", bottom: "26vh" },
+  { src: "/images/대사5.png", show: "18%",   left: "36vw", top: "7.4vh",  bottom: "63vh" },
+  { src: "/images/대사6.png", show: "32%",   left: "60vw",  top: "0vh",       bottom: "51vh" },
 ];
 
 // ===== Smooth Inertia Params (부드러운 관성) =====
