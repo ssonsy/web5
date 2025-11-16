@@ -368,11 +368,11 @@ export default function App() {
     ];
 
     const sprites = [
-      { src: "/pngs/01-2.png", x: PLAY_X + 340,  y: 120,  w: 170, h: 170 },
-      { src: "/pngs/02-2.png", x: PLAY_X + 720,  y: 160,  w: 170, h: 170 },
-      { src: "/pngs/03.png",   x: PLAY_X + 1120, y:  90,  w: 170, h: 170 },
-      { src: "/pngs/04.png",   x: PLAY_X + 1460, y: 130,  w: 170, h: 170 },
-      { src: "/pngs/05-2.png", x: PLAY_X + 980,  y:  80,  w: 170, h: 170 },
+      { src: "/images/01-2.png", x: PLAY_X + 340,  y: 120,  w: 170, h: 170 },
+      { src: "/images/02-2.png", x: PLAY_X + 720,  y: 160,  w: 170, h: 170 },
+      { src: "/images/03.png",   x: PLAY_X + 1120, y:  90,  w: 170, h: 170 },
+      { src: "/images/04.png",   x: PLAY_X + 1460, y: 130,  w: 170, h: 170 },
+      { src: "/images/05-2.png", x: PLAY_X + 980,  y:  80,  w: 170, h: 170 },
     ];
 
     const bodies = [];
