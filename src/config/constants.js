@@ -49,8 +49,8 @@ export const EXTRA_VIDEO_PANEL_WIDTH = 1920;
 export const EXTRA_BG_PANEL_WIDTH    = 3840;
 
 // 파일 경로
-export const VIDEO_SRC  = "/videos/sample.mp4";
-export const BG_IMG_SRC = "/images/background1.png";
+export const VIDEO_SRC  = "videos/sample.mp4";
+export const BG_IMG_SRC = "images/background1.png";
 
 // 새 배경0 (px 유지)
 export const BG0_IMG_SRC     = "/images/background0.png";
@@ -67,7 +67,7 @@ export const CAPTION_MARGIN_BOTTOM = "5.5556vh";   // 60px → 5.5556vh
 export const EXTERNAL_URL = "https://smore.im/quiz/aFbN246J8S";
 
 // 커스텀 커서 (그대로)
-export const CURSOR_PNG_CANDIDATES = ["/cursor.png", "/images/cursor.png", "/assets/cursor.png"];
+export const CURSOR_PNG_CANDIDATES = ["cursor.png", "images/cursor.png", "assets/cursor.png"];
 export const CURSOR_HOTSPOT_X = 8;
 export const CURSOR_HOTSPOT_Y = 8;
 export const MAX_CURSOR_SIZE  = 64;
